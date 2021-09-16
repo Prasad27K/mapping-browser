@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.bi {
+  font-size: 30px;
+  float: right;
+}
+
+.customNode1 {
+  float: right;
+  width: 100%;
+  /* display: table-row; */
+  /* display: flex; */
+}
+.textField {
+  float: left;
+}
+
